@@ -18,6 +18,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
+            //Rama con el nombre
             PrimerDiaTheme {
                 //Adrian Rios Ramos
                 //22130518
