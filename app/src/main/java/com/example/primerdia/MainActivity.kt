@@ -18,6 +18,8 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
+            //Rama con el numero de control
+            //22130518
             PrimerDiaTheme {
                 //Adrian Rios Ramos
                 //22130518
