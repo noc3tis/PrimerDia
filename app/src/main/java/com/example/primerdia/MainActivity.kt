@@ -19,6 +19,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             //Rama con el numero de control
+            //22130518
             PrimerDiaTheme {
                 //Adrian Rios Ramos
                 //22130518
